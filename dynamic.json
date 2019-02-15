@@ -1,0 +1,45 @@
+{
+  "profile":{
+    "img":"rose.jpg",
+    "name":"G.Jyotshna",
+    "roll":"17A31A0510",
+    "place":"Rajahmundry"
+  },
+  "career":{
+    "info":"To "
+  },
+  "education":[
+    {
+      "sno":"1",
+          "degree":"b.tech",
+          "institute":"pragati engineering college",
+          "percentage":"88%",
+          "year":"2021"
+    },
+    {
+      "sno":"2",
+      "degree":"intermediate",
+      "institute":"tirumala",
+      "percentage":"96%",
+      "year":"2017"
+    },
+    {
+      "sno":"3",
+      "degree":"School",
+      "institute":"St.Anns",
+      "percentage":"82%",
+      "year":"2015"
+    }
+  ],
+  "language":[
+    {
+      "lang":"english"
+    },
+    {
+      "lang":"telugu"
+    },
+    {
+      "lang":"hindi"
+    }
+  ]
+}
